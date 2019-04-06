@@ -1,0 +1,25 @@
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘master’
+
+
+
+2019-04-06 01:27:39 (240 KB/s) - Read error at byte 482912611 (The request is invalid.).Retrying.
+
+--2019-04-06 01:27:42--  (try: 4)  https://codeload.github.com/spMohanty/PlantVillage-Dataset/zip/master
+Connecting to codeload.github.com (codeload.github.com)|192.30.253.121|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘master’
+
+
+
+2019-04-06 01:48:18 (243 KB/s) - Read error at byte 482912611 (The request is invalid.).Retrying.
+
+--2019-04-06 01:48:22--  (try: 5)  https://codeload.github.com/spMohanty/PlantVillage-Dataset/zip/master
+Connecting to codeload.github.com (codeload.github.com)|192.30.253.121|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘master’
+
+master                  [             <=>    ] 279.53M   246KB/s               master                  [              <=>   ] 279.62M   248KB/s               master                  [               <=>  ] 279.76M   250KB/s               master                  [                <=> ] 279.83M   248KB/s               master                  [                 <=>] 279.89M   248KB/s               master                  [                <=> ] 279.97M   248KB/s               master                  [               <=>  ] 280.05M   248KB/s               master                  [              <=>   ] 280.14M   250KB/s               master                  [             <=>    ] 280.22M   248KB/s               master                  [            <=>     ] 280.31M   250KB/s               master                  [           <=>      ] 280.41M   250KB/s               master                  [          <=>       ] 280.47M   255KB/s               master                  [         <=>        ] 280.54M   257KB/s               master                  [        <=>         ] 280.62M   257KB/s               master                  [       <=>          ] 280.70M   260KB/s               master                  [      <=>           ] 280.78M   261KB/s               master                  [     <=>            ] 280.86M   261KB/s               master                  [    <=>             ] 280.95M   259KB/s               master                  [   <=>              ] 281.03M   250KB/s               master                  [  <=>               ] 281.12M   248KB/s               master                  [ <=>                ] 281.20M   249KB/s               master                  [<=>                 ] 281.26M   252KB/s               master                  [ <=>                ] 281.33M   240KB/s               master                  [  <=>               ] 281.41M   243KB/s               master                  [   <=>              ] 281.48M   245KB/s               master                  [    <=>             ] 281.58M   248KB/s               master                  [     <=>            ] 281.66M   248KB/s               master                  [      <=>           ] 281.75M   248KB/s               master                  [       <=>          ] 281.83M   237KB/s               master                  [        <=>         ] 281.95M   254KB/s               master                  [         <=>        ] 282.01M   248KB/s               master                  [          <=>       ] 282.08M   248KB/s               master                  [           <=>      ] 282.16M   248KB/s               master                  [            <=>     ] 282.23M   248KB/s               master                  [             <=>    ] 282.33M   247KB/s               master                  [              <=>   ] 282.41M   246KB/s               master                  [               <=>  ] 282.50M   238KB/s               master                  [                <=> ] 282.61M   240KB/s               master                  [                 <=>] 282.67M   249KB/s               master                  [                <=> ] 282.73M   244KB/s               master                  [               <=>  ] 282.81M   244KB/s               master                  [              <=>   ] 282.89M   246KB/s               master                  [             <=>    ] 282.98M   251KB/s               master                  [            <=>     ] 283.06M   251KB/s               
