@@ -97,7 +97,7 @@ def getPrediction(file_path):
 
     top_k = results.argsort()[-5:][::-1]
     
-    return str("{}".format(_labels[top_k[1]]))
+    return str("{}".format(_labels[top_k[0]]))
 
 @app.route('/api/v1/<name>')
 def success(name):
@@ -158,4 +158,4 @@ if __name__ == "__main__":
     # print getPrediction("./test4.jpg")
 
     # Load the flask api
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)
